@@ -1,8 +1,4 @@
 # colab10.0
-# Zhuqing Yang (zhuqingy) Section E #############
-# Colab10
-# Partner: Shuyuan Ding (shuyuand)###############
-
 import math
 import string
 import copy
@@ -80,10 +76,7 @@ def testEvalPrefixNotation():
 #################################################
 
 def testAll():
-    testBookClass()
-    testBirdClasses()
-    testAlternatingSum()
-    testPowersOf3ToN()
+    testEvalPrefixNotation()
 
 def main():
     testAll()
